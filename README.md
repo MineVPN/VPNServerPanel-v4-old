@@ -8,7 +8,7 @@
 
 ## Установка
 
-Подключитесь по SSH к свежему Ubuntu-серверу (22.04 или 24.04 LTS) под root и выполните:
+Подключитесь по SSH к свежему Ubuntu-серверу (22.04) под root и выполните:
 
 ```bash
 curl -O https://raw.githubusercontent.com/MineVPN/VPNServerPanel-v4-old/main/Easy-Server-Installer-v4.sh && bash Easy-Server-Installer-v4.sh
@@ -62,7 +62,7 @@ curl -O https://raw.githubusercontent.com/MineVPN/VPNServerPanel-v4-old/main/Eas
 - VOIP-оптимизации (conntrack, SIP ALG, длинный DHCP lease)
 - Современный UI с журналом, дашбордом, drag-and-drop
 
-Если нужны эти возможности — устанавливайте сразу [v5](https://github.com/MineVPN/MineServerTest).
+Если нужны эти возможности — устанавливайте сразу [v5](https://github.com/MineVPN/VPN).
 
 ---
 
@@ -82,7 +82,7 @@ sudo bash Easy-Server-Installer-v4.sh
 
 Этот репозиторий **не поддерживается**. Issues и pull requests не принимаются.
 
-Все вопросы — в [актуальном репозитории v5](https://github.com/MineVPN/MineServerTest).
+Все вопросы — в [актуальном репозитории v5](https://github.com/MineVPN/VPN).
 
 ---
 
